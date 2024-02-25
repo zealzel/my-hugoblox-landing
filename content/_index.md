@@ -39,4 +39,28 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
+  - block: features
+    id: features
+    content:
+      title: Features
+      text: FitAMR 提供多樣化的應用, 讓你的工作更輕鬆
+      items:
+        - name: 獨立研發
+          icon: magnifying-glass
+          description: 從構想出發, 歷經多次原型迭代, 整合軟硬體技術, 提供客戶最接地氣的解決方案
+        - name: 自主導航
+          icon: bolt
+          description: 透過激光雷達、攝影機、超音波等感測器, 進行環境感知, 並透過SLAM技術, 進行地圖建立與定位
+        - name: 量身訂做應用
+          icon: sparkles
+          description: 依據客戶需求, 提供量身訂做的應用, 貼近辦公室、工廠現場的實際需求
+        - name: 創新整合
+          icon: code-bracket
+          description: 整合機器人、機械手臂、視覺辨識、物聯網等技術, 提供客戶最完整的解決方案
+        - name: 技術導向
+          icon: star
+          description: ROS2、AI、機器學習、深度學習等技術, 提供客戶最前沿的技術應用
+        - name: TBD
+          icon: rectangle-group
+          description: AAA
 ---
