@@ -47,7 +47,8 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    # notice: '© {year} My Company'
+    notice: '© {year} FIT CPD-X Team'
 
 # Localization
 locale:

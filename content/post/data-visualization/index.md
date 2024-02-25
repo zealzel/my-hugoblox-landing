@@ -1,5 +1,6 @@
 ---
 title: 📈 Communicate your results effectively with the best data visualizations
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
@@ -8,8 +9,10 @@ tags:
   - Hugo
   - Hugo Blox
   - Markdown
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
